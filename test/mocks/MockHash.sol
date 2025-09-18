@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.27;
+pragma solidity ^0.8.28;
 
 import {ISignatureTransfer} from "../../src/interfaces/ISignatureTransfer.sol";
 import {PermitHash} from "../../src/libraries/PermitHash.sol";

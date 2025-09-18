@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.27;
+pragma solidity ^0.8.28;
 
 library AmountBuilder {
     function fill(uint256 length, uint256 amount) external pure returns (uint256[] memory amounts) {
